@@ -1,5 +1,21 @@
 # Hurricane-Induced-Economic-Loss-Prediction
 
+This work appears in SpatialConnect‘25: Proceedings of the 1st ACM SIGSPATIAL International Workshop on Spatial Intelligence for Smart and Connected Communities.
+
+## How to Cite
+
+If you find this work useful in your research, please consider citing:
+
+```bibtex
+@inproceedings{10.1145/3764924.3770889,
+author = {Shen, Bolin and Ozguven, Eren and Zhao, Yue and Wang, Guang and Xie, Yiqun and Dong, Yushun},
+title = {Learning from the Storm: A Multivariate Machine Learning Approach to Predicting Hurricane-Induced Economic Losses},
+year = {2025},
+url = {https://doi.org/10.1145/3764924.3770889},
+location = {The Graduate Hotel Minneapolis, Minneapolis, MN, USA},
+}
+```
+
 ## Install Environment
 
 We use [uv](https://github.com/astral-sh/uv) to manage this project.
